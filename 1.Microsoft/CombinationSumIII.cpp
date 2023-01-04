@@ -1,4 +1,4 @@
-// Didn't get the logic in the first 1st
+// Didn't get the logic in the 1st try
 class Solution {
 public:
 
